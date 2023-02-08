@@ -1,4 +1,5 @@
 # One Day One Word
+[Google Play Store](https://play.google.com/store/apps/details?id=com.yuen.onedayoneword&hl=tr&gl=US)
 
 TR: One Day One word insalara ingilizce kelime öğretmeyi hedefliyor. Aslında uygulamanın çıkış amacı kendi kuzenimin ingilizce öğrenmesini istememdi. Her ne kadar ona öğütlesemde ingilizce öğrenmeye pek bir ilgi gösterdiği söylenemezdi, en azından benim gördüğüm kadarıyla. Bende kuzenime Whatsapp üzerinden her gün 1 ingilizce kelime öğretmeye karar verdim. Bu kelimeler sadece İngilizce - Türkçe çeviri şeklinde olmayıp elimden geldiğince açıklayıp resim, video vb kaynaklarla desteklemekti. Sonrasında sadece kuzenimle başladığım oluşum kendi kardeşim, kuzenim ve onun kuzeni olmak üzere 3 kişilik bir gruba dönüştü. Bende bu yaptığımız olayı bir mobil uygulamaya dönüştürmeye karar verdim. işte One Day One Word'ün çıkış hikayesi budur. Programın kullanımı oldukça basit zaten ekran görüntülerine bakrak fikir edinebilirsiniz. Ek olarak seviyelerine göre kelime listeleri de bulabilirsiniz.
 
@@ -21,3 +22,4 @@ Getx (State Management)
 <img src="https://play-lh.googleusercontent.com/EWBPU3Xp-rOcBIdXdVxrxiPYCu381AvR4CFl8bjfPgwChcUiAtm10VChsnhGpIs4bwQ=w526-h296-rw" width="150">
 <img src="https://play-lh.googleusercontent.com/TU4zANIO0zxWuukAXT5Qo-LJo-v6LbApW66TxA3KgR-ZZoeV61dC7wTKUP8HFRPkDg8=w526-h296-rw" width="150">
 </p>
+
